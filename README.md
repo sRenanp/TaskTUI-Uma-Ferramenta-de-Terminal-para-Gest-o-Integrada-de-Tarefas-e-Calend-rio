@@ -45,5 +45,5 @@ Um gerenciador de tarefas robusto baseado em terminal (TUI) escrito em Go, utili
 1. Certifique-se de ter o Go instalado em sua máquina.
 2. Clone o repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone <[url-do-repositorio](https://github.com/sRenanp/TaskTUI-Uma-Ferramenta-de-Terminal-para-Gest-o-Integrada-de-Tarefas-e-Calend-rio.git)>
    ```
